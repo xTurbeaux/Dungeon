@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\bin\Debug\MobLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\bin\Debug\MobLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\obj\Debug\MobLibs.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\obj\Debug\MobLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\obj\Debug\MobLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\bin\Debug\DungeonLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\bin\Debug\DungeonLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\obj\Debug\MobLibs.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\MobLibs\obj\Debug\MobLibs.csproj.CopyComplete

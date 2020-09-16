@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\DungeonMK2.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\DungeonMK2.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\DungeonMK2.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\obj\Debug\DungeonMK2.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\obj\Debug\DungeonMK2.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\obj\Debug\DungeonMK2.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\obj\Debug\DungeonMK2.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\DungeonLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\MobLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\DungeonLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\bin\Debug\MobLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonMK2\obj\Debug\DungeonMK2.csproj.CopyComplete

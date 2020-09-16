@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonMK2", "DungeonMK2\DungeonMK2.csproj", "{280C7856-370A-4C97-ABF5-FAD30171E17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonLibs", "DungeonLibs\DungeonLibs.csproj", "{29D9E6E0-A074-4B03-9360-F47D36017C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobLibs", "MobLibs\MobLibs.csproj", "{CF396405-1484-48E3-B20C-8C8C8C948D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280C7856-370A-4C97-ABF5-FAD30171E17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280C7856-370A-4C97-ABF5-FAD30171E17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280C7856-370A-4C97-ABF5-FAD30171E17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280C7856-370A-4C97-ABF5-FAD30171E17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D9E6E0-A074-4B03-9360-F47D36017C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D9E6E0-A074-4B03-9360-F47D36017C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D9E6E0-A074-4B03-9360-F47D36017C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D9E6E0-A074-4B03-9360-F47D36017C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF396405-1484-48E3-B20C-8C8C8C948D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF396405-1484-48E3-B20C-8C8C8C948D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF396405-1484-48E3-B20C-8C8C8C948D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF396405-1484-48E3-B20C-8C8C8C948D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD5194D-6A62-46FC-A269-E52F82000CDF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonLibs\bin\Debug\DungeonLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonLibs\bin\Debug\DungeonLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonLibs\obj\Debug\DungeonLibs.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonLibs\obj\Debug\DungeonLibs.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonLibs\obj\Debug\DungeonLibs.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\12_PROJECT\DungeonMK2\DungeonLibs\obj\Debug\DungeonLibs.csprojAssemblyReference.cache
